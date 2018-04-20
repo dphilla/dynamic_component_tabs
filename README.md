@@ -1,6 +1,6 @@
 # dynamic-comp-tab-example
 
-> A Vue.js project
+> A Vue.js playground to work with dynamic components
 
 ## Build Setup
 
